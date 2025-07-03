@@ -1,0 +1,8 @@
+BEGIN TASK ONE TESTS OUTPUT
+Tests run: X, Failures: Y, Errors: Z, Skipped: W, Time elapsed: V s
+Test run summary:
+  testMethod1(com.example.TaskOneTests)  Time elapsed: A s
+  testMethod2(com.example.TaskOneTests)  Time elapsed: B s
+Results :
+Tests run: X, Failures: Y, Errors: Z, Skipped: W
+END TASK ONE TESTS OUTPUT
